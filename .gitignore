@@ -1,4 +1,5 @@
 .ipynb*
-*.docx
+# *.docx
+lab1/lab1_pumba.docx
 passmark_cache
 *.pptx
